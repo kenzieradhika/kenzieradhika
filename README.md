@@ -13,17 +13,12 @@ I'm a **Beginner Developer** from Indonesia 🇮🇩 who treats coding like a cu
 
 ---
 
-### 🛠️ Technical Arsenal
+### 💻 My Tech Stack
 *Focused on the essentials.*
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,php,dart,flutter,html,css,godot,vscode,git&theme=dark" />
 </p>
-
----
-
-### 🧪 Fun Fact
-> "I believe the best way to learn is by doing. If it doesn't error the first time, I'm probably doing something wrong!" 😅
 
 ---
 
