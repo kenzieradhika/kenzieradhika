@@ -3,19 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/DEVELOPER-BEGINNER-007ACC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/OS-UBUNTU-007ACC?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/STUDENT-SMKN%202%20MAGELANG-007ACC?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer&animation=twinkling" width="50%" />
+  <img src="https://img.shields.io/badge/DEVELOPER-BEGINNER-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-UBUNTU-007ACC?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/STUDENT-SMKN%202%20MAGELANG-007ACC?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
 ---
