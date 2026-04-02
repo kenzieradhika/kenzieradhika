@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Hi%20there,%20I'm%20Kenzie!%20👋&fontSize=50&animation=fadeIn&fontColor=58a6ff" width="100%" />
 </p>
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/DEVELOPER-BEGINNER-007ACC?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-UBUNTU-007ACC?style=for-the-badge&logo=ubuntu&logoColor=white" />
