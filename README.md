@@ -4,7 +4,7 @@
  
 <p align="center">
   <img src="https://img.shields.io/badge/DEVELOPER-BEGINNER-007ACC?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-UBUNTU-007ACC?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-WINDOWS%2011-007ACC?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/STUDENT-SMKN%202%20MAGELANG-007ACC?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
 
@@ -28,11 +28,11 @@ I'm a **Beginner Developer** from Indonesia 🇮🇩 with a passion for explorin
   <tr>
     <td align="center" width="50%">
       <strong>Programming Languages</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=ts,js,php,dart,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=php,python&theme=dark" />
     </td>
     <td align="center" width="50%">
       <strong>Frameworks & Tools</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=flutter,react,godot,vscode,git,mysql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=laravel,react,vscode,git,mysql&theme=dark" />
     </td>
   </tr>
 </table>
