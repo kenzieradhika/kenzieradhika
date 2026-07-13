@@ -15,7 +15,6 @@ I'm a **Beginner Developer** from Indonesia 🇮🇩 with a passion for explorin
 
 | Focus Area | Technologies |
 | :--- | :--- |
-| 🎮 **Game Dev** | Crafting 3D survival mechanics in **Godot Engine**. |
 | ⚡ **IoT & Hardware** | Tinkering with **ESP32/ESP8266** and mobile mods. |
 | 📚 **Learning Journey** | Deepening my knowledge in **Flutter** and **PHP**. |
 
