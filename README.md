@@ -68,35 +68,127 @@ class Kenzie {
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,cpp,js,ts,laravel,react,nextjs,nodejs,flutter,mysql,vscode,git,github,windows&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="50" />
+</p>
+
+<p align="center">
+  PHP • Python • C++ • JavaScript • TypeScript • Dart • Kotlin
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" />
+</p>
+
+<p align="center">
+  Laravel • React • Next.js • Node.js
+</p>
+
+---
+
+### 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="50" />
+</p>
+
+<p align="center">
+  Flutter • Dart • Kotlin
+</p>
+
+---
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50" />
+</p>
+
+<p align="center">
+  MySQL • PostgreSQL • SQLite
+</p>
+
+---
+
+### 🔧 Tools & Version Control
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
+</p>
+
+<p align="center">
+  VS Code • Git • GitHub
+</p>
+
+---
+
+### 🖥️ Operating System
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" />
+</p>
+
+<p align="center">
+  Windows 11 • Linux
 </p>
 
 <br>
 
 ## 🎯 Currently Exploring
 
-<details>
-<summary>⚙️ <strong>IoT & Hardware</strong></summary>
-<br>
-Bereksperimen dengan <strong>ESP32</strong> dan <strong>ESP8266</strong> untuk membuat proyek-proyek kecil berbasis mikrokontroler, mulai dari sensor sederhana sampai modifikasi perangkat mobile.
-</details>
+### ⚙️ IoT & Hardware
+
+Bereksperimen dengan **ESP32** dan **ESP8266** untuk membuat proyek-proyek kecil berbasis mikrokontroler, mulai dari sensor sederhana sampai modifikasi perangkat mobile.
 
 <br>
 
-<details>
-<summary>📱 <strong>Mobile Development</strong></summary>
-<br>
-Mendalami <strong>Flutter</strong> untuk membangun aplikasi mobile yang bisa berjalan di Android maupun iOS dengan satu basis kode.
-</details>
+### 📱 Mobile Development
+
+Mendalami **Flutter**, **Dart**, dan **Kotlin** untuk membangun aplikasi mobile yang bisa berjalan di Android maupun iOS dengan satu basis kode.
 
 <br>
 
-<details>
-<summary>🌐 <strong>Full-Stack Web Development</strong></summary>
-<br>
-Menggabungkan <strong>Laravel</strong> di sisi backend dengan <strong>React</strong> / <strong>Next.js</strong> di sisi frontend, serta mulai belajar <strong>Node.js</strong> untuk memperluas kemampuan full-stack.
-</details>
+### 🌐 Full-Stack Web Development
+
+Menggabungkan **Laravel** di sisi backend dengan **React** / **Next.js** di sisi frontend, serta mulai belajar **Node.js** untuk memperluas kemampuan full-stack.
 
 <br>
 
