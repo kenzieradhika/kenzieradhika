@@ -1,119 +1,131 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Hi,%20I'm%20Kenzie!&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:24283b,100:7aa2f7&height=210&section=header&text=Hi,%20I'm%20Kenzie!&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=37&desc=Student%20Developer%20%7C%20Web,%20Mobile%20%26%20IoT&descAlignY=58&descSize=18" width="100%" alt="Hi, I'm Kenzie — Student Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+things+with+code+%F0%9F%92%BB;Exploring+Web%2C+Mobile+%26+IoT+%E2%9A%A1;Learning.+Building.+Improving.+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="assets/octocat.gif" width="85" alt="Animated Octocat" />
 
-<br>
+  <h3>Turning curiosity into code.</h3>
 
-<img src="https://img.shields.io/badge/Developer-Beginner-58A6FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20IoT-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+for+the+web+and+mobile;Connecting+code+with+hardware;Learning.+Building.+Improving." width="100%" alt="Building for the web and mobile. Connecting code with hardware." />
+
+  <p>
+    <a href="https://github.com/kenzieradhika"><img src="https://img.shields.io/badge/GitHub-kenzieradhika-7AA2F7?style=for-the-badge&logo=github&logoColor=C0CAF5&labelColor=1A1B27" alt="GitHub: kenzieradhika" /></a>
+    <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Mobile%20%7C%20IoT-BB9AF7?style=for-the-badge&labelColor=1A1B27" alt="Focus: Web, Mobile and IoT" />
+    <img src="https://img.shields.io/badge/Based%20in-Indonesia-9ECE6A?style=for-the-badge&labelColor=1A1B27" alt="Based in Indonesia" />
+  </p>
+
+  <a href="#about-me">About</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#currently-exploring">Exploring</a> · <a href="#github-activity">Activity</a> · <a href="#connect">Connect</a>
 
 </div>
 
-<br>
+## About Me
 
-## 👨‍💻 About Me
+I'm **Kenzie**, a student at **SMKN 2 Magelang**, Indonesia. I enjoy building web and mobile applications, experimenting with microcontrollers, and learning how software connects with the physical world.
 
 ```php
 <?php
 
-class Kenzie {
-    public string $role = "Student Developer";
-    public string $location = "Indonesia 🇮🇩";
+final class Kenzie
+{
+    public string $role = 'Student Developer';
+    public string $location = 'Indonesia';
 
     public array $interests = [
-        "Web Development",
-        "Mobile Development",
-        "IoT & Hardware"
+        'Web Development',
+        'Mobile Development',
+        'IoT & Hardware',
     ];
 
-    public string $motto = "Keep learning, keep building.";
+    public array $learning = ['Laravel', 'Flutter', 'Python'];
+    public string $motto = 'Keep learning, keep building.';
 }
 ```
 
-- 🎓 Student at **SMKN 2 Magelang**
-- 💻 Passionate about **Web, Mobile & IoT**
-- 🌱 Currently learning **Laravel, Flutter & Python**
-- ⚡ Love experimenting with **ESP32 / ESP8266**
-- 🚀 Always curious about new technologies
+- 🎓 Learning through practice, experiments, and small projects.
+- 🌱 Currently studying **Laravel, Flutter, and Python**.
+- 🔌 Exploring connected devices with **ESP32 and ESP8266**.
+- 🚀 Curious about new tools and how things work.
 
-<br>
+<div align="center">
+  <img src="assets/tech-banner.gif" width="850" alt="Animated illustration of connected technology and JavaScript" />
+</div>
 
+## Tech Stack
 
-## ⚡ Tech Stack
+<p align="center">Technologies I use and explore as I learn.</p>
 
 <div align="center">
 
-**Languages**
+  <h4>Languages</h4>
+  <img src="https://skillicons.dev/icons?i=php,python,cpp,js,ts,dart,kotlin,ruby,go&theme=dark&perline=9" alt="PHP, Python, C++, JavaScript, TypeScript, Dart, Kotlin, Ruby, Go" />
 
-<img src="https://skillicons.dev/icons?i=php,python,cpp,js,ts,dart,kotlin,ruby,go&theme=dark&perline=9"/>
+  <h4>Frameworks &amp; Runtimes</h4>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,flutter,vue&theme=dark&perline=6" alt="Laravel, React, Next.js, Node.js, Flutter, Vue" />
 
-<br><br>
+  <h4>Databases &amp; Tools</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&theme=dark&perline=6" alt="MySQL, PostgreSQL, SQLite, Git, GitHub, VS Code" />
 
-**Frameworks & Technologies**
-
-<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,flutter,vue&theme=dark"/>
-
-<br><br>
-
-**Database & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&theme=dark"/>
-
-<br><br>
-
-**Operating Systems**
-
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark"/>
+  <h4>Operating Systems</h4>
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Windows and Linux" />
 
 </div>
 
-<br>
+## Currently Exploring
 
-## 🚀 What I'm Exploring
+| Area | Technologies | Learning focus |
+| --- | --- | --- |
+| 🌐 Web | Laravel, React, Next.js | Interfaces, APIs, and fullstack applications |
+| 📱 Mobile | Flutter, Dart, Kotlin | Mobile interfaces and application fundamentals |
+| 🔌 Hardware | ESP32, ESP8266 | Sensors, connected devices, and IoT experiments |
+| 🗄️ Data | MySQL, PostgreSQL | Database design and application data |
+| 🐍 Python | Python | Scripting and automation basics |
 
-```text
-🌐 Web       → Laravel, React, Next.js
-📱 Mobile    → Flutter, Dart, Kotlin
-🔌 Hardware  → ESP32, ESP8266, IoT
-🗄️ Database  → MySQL, PostgreSQL
-```
-
-<br>
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kenzie&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" height="165"/>
+  <a href="https://github.com/kenzieradhika">
+    <img src="https://github-readme-stats.vercel.app/api?username=kenzieradhika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" alt="Kenzie's GitHub statistics" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzieradhika&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" alt="Most used languages in Kenzie's public repositories" />
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzie&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=FFFFFF" height="165"/>
+  <br /><br />
+
+  <a href="https://github.com/kenzieradhika">
+    <img src="https://streak-stats.demolab.com/?user=kenzieradhika&theme=tokyonight&hide_border=true" width="75%" alt="Kenzie's GitHub contribution streak" />
+  </a>
 
 </div>
 
-<br>
+<details>
+  <summary>🌈 Uploaded visual references</summary>
 
-## 🌐 Connect With Me
+  <p>These are the original uploaded snapshots for visual inspiration. They are not live statistics for <code>kenzieradhika</code>; the streak snapshot belongs to <code>Ali-hey-0</code>.</p>
+
+  <p align="center">
+    <img src="assets/profile-night-rainbow.svg" width="850" alt="Uploaded night rainbow contribution graph reference" />
+    <br /><br />
+    <img src="assets/streak-reference.svg" width="495" alt="Uploaded Ali-hey-0 streak snapshot reference" />
+  </p>
+
+</details>
+
+## Connect
 
 <div align="center">
 
-<a href="https://instagram.com/USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF"/>
-</a>
-<a href="mailto:EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
-</a>
+  <p>Explore my repositories and follow what I'm learning.</p>
 
-<br><br>
+  <a href="https://github.com/kenzieradhika"><img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-7AA2F7?style=for-the-badge&logo=github&logoColor=C0CAF5&labelColor=1A1B27" alt="Visit Kenzie's GitHub profile" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=kenzie&color=58A6FF&style=flat-square&label=Profile+Views"/>
+  <!-- Add verified Instagram and email links here when available. -->
 
-<br><br>
+  <br /><br />
 
-*"Keep learning. Keep building. Never stop exploring."* ✨
+  <img src="https://komarev.com/ghpvc/?username=kenzieradhika&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile view counter" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=110&section=footer" width="100%"/>
+  <p><i>Keep learning. Keep building. Never stop exploring.</i> ✨</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:0d1117&height=110&section=footer" width="100%" alt="Decorative wave footer" />
 
 </div>
